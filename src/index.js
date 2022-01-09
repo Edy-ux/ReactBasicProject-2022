@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { data } from './components/Books'; //quando se usar export deve-se o {data}
+import { data } from './components/Books'; //quando se usar export deve-se usar o {data}
 import SpecificBook from './components/Book';
 
 //CSS
